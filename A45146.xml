@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>One sheet (or second letter) concerning the difference in some points which is between our united brethren, in order to accommodation</title>
+            <author>Humfrey, John, 1621-1719.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45146</idno>
+            <idno type="STC">Wing H3696A</idno>
+            <idno type="STC">ESTC R219058</idno>
+            <idno type="EEBO-CITATION">99830594</idno>
+            <idno type="PROQUEST">99830594</idno>
+            <idno type="VID">35047</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45146)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35047)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2092:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>One sheet (or second letter) concerning the difference in some points which is between our united brethren, in order to accommodation</title>
+                  <author>Humfrey, John, 1621-1719.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for T. Parkhurst near Mercers-Chappel,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Humfrey.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>The "Mr. Williams" of the text is Daniel Williams, the non-conformist divine; the text Humfrey is challenging has not been identified.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Williams, Daniel, 1643?-1716 --  Controversial literature --  Early works to 1800.</term>
+               <term>Theology, Doctrinal --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:35047:1" rendition="simple:additions"/>
+            <head>One Sheet (or Second LETTER) concerning the Difference in ſome Points which is between our United Brethren, in order to <hi>Accommodation.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HHaving peruſed the Exceptions you let me ſee in a Paper that Confronts Mr. <hi>Williams</hi> with the Books of others of his Brethren, which ſhews the Collector to be a Learned and Induſtrious man, and bent (I ſuppoſe) upon Reconciliation of this late Breach between them, and whoſe Labour therefore is Accepted, and in that generous ſelf-denyal I ſee in it, to be imitated: I could not chooſe but take my Pen, and make my Animadverſions upon them in the peruſal, but without producing or medling at all with the Oppoſite Citations.</p>
+            <div type="part">
+               <head>The Words (or Queſtioned Paſſages) of Mr <hi>Williams.</hi>
+               </head>
+               <p>
+                  <hi>CHriſt, where He is called a Surety, was a Surety of a better Co<g ref="char:EOLhyphen"/>venant, and therefore not of the Law of Works.</hi> For the former part of this, it is expreſs Scripture, <hi>Heb.</hi> 7.22. For the latter, by the Law Mr <hi>W</hi>'s underſtands the <hi>Covenant of Works,</hi> that was made with man in Innocency requiring perfect Obedience, as the condition of Life. Now the Difference between this Cove<g ref="char:EOLhyphen"/>nant, and that of Grace with man Faln, does lie in this, That the ſame <hi>Duty</hi> is required in both; but (ſpeaking <hi>Largely</hi>) the one has (and ſo the <hi>Condition</hi> laxed), the other had, no <hi>Mediator.</hi> And no <hi>Mediator,</hi> no <hi>Surety.</hi>
+               </p>
+               <p>
+                  <hi>It was not a Covenant that obliged us to Die for Sin, or perfectly Obey in a way of Merit, that He is called a Surety of.</hi> By the <hi>Bet<g ref="char:EOLhyphen"/>ter Covenant,</hi> Mr <hi>W</hi>'s apprehends the Covenant of <hi>Grace,</hi> and ſo ſpeaks this. But I remember theſe words of Mr <hi>Rutherford. The Lord Jeſus hath a Room in each Covenant, that of Works, and that of Grace.</hi> I will add to it, <hi>A Room,</hi> but not <hi>Strictly</hi> as <hi>Surety</hi> of either. It is the Covenant of <hi>Redemption</hi> (the Covenant of <hi>Sure<g ref="char:EOLhyphen"/>tiſhip</hi> he calls it) that is, the Covenant between <hi>God</hi> and <hi>Chriſt,</hi> not the Covenant between <hi>God</hi> and <hi>Man</hi> (of <hi>Works</hi> or <hi>Grace</hi>) wherein the foundation of this Suretiſhip is to be laid. The ex<g ref="char:EOLhyphen"/>cellency of Chriſt's Prieſthood is ſet out by this, that it was made
+<pb n="2" facs="tcp:35047:2"/>by an Oath; <hi>The Lord hath Sworn. God hath Sworn,</hi> can be no leſs than his <hi>Decree. Hath!</hi> When was that? Why when God did Covenant with Chriſt, that he ſhould <hi>make his Soul an Offering for Sin;</hi> then was this Oath took, then was this Suretiſhip, Prieſt<g ref="char:EOLhyphen"/>hood, Mediatorſhip conſtituted and eſtabliſhed. Chriſt is a Sure<g ref="char:EOLhyphen"/>ty according to this Covenant, (and of that of <hi>Grace</hi> upon the ac<g ref="char:EOLhyphen"/>count only of coincidence with it.) As to the <hi>Covenant</hi> of <hi>Works</hi> Chriſt hath this <hi>Room,</hi> He hath undertook to ſatisfie for the breach of it: And as for the <hi>Covenant of Grace</hi> (or Covenant of <hi>Reconci<g ref="char:EOLhyphen"/>liation</hi>) he hath this <hi>Room,</hi> that by that Satisfaction (or Suffering) he hath procured it for us.</p>
+               <p>
+                  <hi>Chriſt can be Bound by the Covenant of which he is Surety, to no more than what we are engaged to do and ſuffer by the Goſpel-Cove<g ref="char:EOLhyphen"/>nant.</hi> This calls for Mr. <hi>W</hi>'s ſecond Thoughts on what is already ſaid. Chriſt is not bound by the Goſpel-Covenant to any thing at all, That Covenant belongs only to us. He was bound by the <hi>Law,</hi> as Man, to perfect Obedience: and by his <hi>Surety-Covenant</hi> to ſuffering in regard of his Undertaking (which was not <hi>ex de<g ref="char:EOLhyphen"/>licto,</hi> but <hi>ex voluntario contractu</hi>) in our behalf. Mr. <hi>W</hi>'s wont deny this, or he muſt explain himſelf.</p>
+               <p>
+                  <hi>The calling God Creditor, and Sin Debts, is Metaphorical, and uſing ſuch words as proper, hath given advantage to the Socinian.</hi> This I think judiciouſly ſpoken. The ranſom Chriſt gave for Sinners, is not properly a <hi>Payment,</hi> but <hi>Satisfaction;</hi> that is, <hi>Redditio oequi<g ref="char:EOLhyphen"/>valentis aliter indebiti,</hi> as <hi>Scotus</hi> hath defined it. If Chriſt was <hi>ex ordinatione Dei,</hi> ſtrictly and preciſely a conſtituted proper Surety of the <hi>Covenant of Works,</hi> He having performed it in our ſtead, we ſhould be freed from the Penalty, and enjoy the Re<g ref="char:EOLhyphen"/>ward, without any terms to be required farther on our parts; it were not juſt to impoſe any. And if he was <hi>ſuch</hi> a Surety (as ſome would have it) of the <hi>Covenant of Grace,</hi> then muſt he perform thoſe our terms, and ſo <hi>believe</hi> and <hi>repent</hi> for us, which is the true <hi>Antinomian</hi> conſequence of it. But when he becomes a Surety only upon his Covenant with God, and ſo has a <hi>Room</hi> only, in either Covenant with Man, he hath ſo mediated his Work, that we are reconciled to God, and God ſtill requires our Duty.</p>
+               <p>
+                  <hi>Though in</hi> Gal. 4.4, 5. <hi>it is ſaid, that Chriſt was made under the Law, it's not meant of the Moral, but Ceremonial Law.</hi> I have not Mr. <hi>W</hi>'s Books now to examine the Quotations, but I am verily perſwaded that Mr. <hi>Williams,</hi> upon recollection, and Dr. <hi>Bates,</hi> who ſays otherwiſe, and orthodoxly, will <hi>both</hi> agree in this Poſi<g ref="char:EOLhyphen"/>tion
+<pb n="3" facs="tcp:35047:2"/>(Mr <hi>W</hi>'s differing I gueſs only as to the meaning of this par<g ref="char:EOLhyphen"/>ticular place) from another <hi>Third. All Men being born under the Law, and Covenant of Works,</hi> Chriſt Man <hi>muſt be under the ſame.</hi> I believe further, that both the one and the other will agree alſo, that <hi>Obe<g ref="char:EOLhyphen"/>dience to the Moral Law</hi> was the <hi>Condition of the Covenant of works</hi> which Man <hi>Chriſt,</hi> as <hi>Man,</hi> was oblig'd to, that he might himſelf have right, <hi>jure &amp; merito federis Operum,</hi> to Life eternal.</p>
+               <p>
+                  <hi>There is no change of Perſon between Chriſt and the Elect,</hi>
+                  <note place="margin">Of this parti<g ref="char:EOLhyphen"/>cular Point of <hi>Commutation,</hi> I have 9 Pages on purpoſe againſt Dr. <hi>Owen,</hi> in my Book call'd <hi>Peaceable Diſquiſitions.</hi>
+                  </note> 
+                  <hi>or betwixt him and Believers.</hi> Here Mr. <hi>W</hi>'s muſt have line. He will not certainly deny but that Chriſt <hi>dy'd (<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>) for us</hi> ſo as that it was <hi>loco noſtro,</hi> in our ſtead, and allow a Commutation of Perſon ſo far, that he dying for us, we ſhall not therefore be damn'd our ſelves: but not ſuch a Commutation, as that we are to be reckoned to have obey'd, ſuffered, and ſatisfied in his Perſon, ſo as to be our own Redeemers; which is that he means, and being therefore at ſome little loſs here, I will (craving his Pardon) lend him my Hand. It is not only <hi>bono noſtro,</hi> but <hi>loco noſtro, in our ſtead</hi> (as <hi>Grotius</hi> hath evinc'd) that Chriſt dy'd for Sinners. Well then. <hi>In our ſtead;</hi> that is, <hi>Not in our Perſon strictly, but in the Perſon of a Mediator,</hi> ſays Mr. <hi>Baxter:</hi> In our ſtead, that is, <hi>as a common Per<g ref="char:EOLhyphen"/>ſon</hi> ex re geſta, <hi>but not a common Perſon</hi> ex fictione ſuppoſiti, as Mr. <hi>Woodbridge</hi> hath wrung it out more elaborately from his ſtudying the Civil Lawyers.</p>
+               <p>
+                  <hi>There is a change of the Penal ſanction of the Law: the Goſpel-Law doth not denounce Death for the ſame Sins, and for every Sin, as</hi> Adam<hi>'s Law did.</hi> The words of Mr. <hi>Williams</hi> here, and Dr. <hi>Bates,</hi> are indeed plain contrary, but it is ſome Slip only I believe, and in the bottom ſence both will reconcile eaſily. Diſtinguiſh we therefore with care between what the Goſpel requires <hi>ſub ratione officii,</hi> and what it requires <hi>ſub ratione couditionis:</hi> between the <hi>Duty</hi> and the <hi>Condition</hi> of the Law of Grace, or Covenant of the Goſpel. <hi>Sub ratione officii,</hi> the Goſpel requires all that, and no leſs than that, the Law of <hi>Nature</hi> does (for the Law of Nature and Remedying Grace are both parts of Chriſt's Law, and no Sin againſt <hi>That,</hi> but is alſo a Breach of His, and makes us liable to Death): But the Goſpel <hi>ſub ratione Conditionis,</hi> requires only Sincerity, conſiſtent with Hu<g ref="char:EOLhyphen"/>man Frailty and Imperfection: ſo that when we ſin againſt any <hi>Precept</hi> of <hi>Chriſt's Law,</hi> (the Law of Nature which is founded in God's Nature, and ours being unchangeable) and thereby were <hi>Con<g ref="char:EOLhyphen"/>demnandi,</hi> we ſin not yet <hi>againſt it</hi> as a <hi>conditional Covenant,</hi> by non<g ref="char:EOLhyphen"/>performance. And ſo long as the <hi>Condition</hi> is, when the <hi>Duty</hi> is not
+<pb n="4" facs="tcp:35047:3"/>performed, by the Grace of that Covenant, we are pardoned and ſaved.</p>
+               <p>There are three things more (leaving the reſt of it) wherein this Paper taxes Mr <hi>W</hi>'s for differing with another of his Emi<g ref="char:EOLhyphen"/>nent Brethren.
+<list>
+                     <item>1. <hi>That Chriſt purchaſed the Covenant of Grace.</hi>
+                     </item>
+                     <item>2. <hi>That its Condition is an antecedent Condition.</hi>
+                     </item>
+                     <item>3. <hi>That Faith and Repentance are not Covenant Bleſſings.</hi>
+                     </item>
+                  </list>
+For the firſt of theſe, I have already affirm'd it. And when the <hi>Aſſembly's Confeſſion</hi> tells us of a <hi>Firſt</hi> Covenant with <hi>Adam,</hi> of <hi>Works:</hi> and upon his Fall of a <hi>Second,</hi> of <hi>Grace;</hi> and that this is called a <hi>Testament</hi> in reference to Chriſt's Death the Teſtator, it is a Wonder to me if any Uni<g ref="char:EOLhyphen"/>ted Brother, in oppoſition to Mr <hi>W</hi>'s ſhall gainſay this, not with<g ref="char:EOLhyphen"/>ſtanding what is in their <hi>Larger Catechiſm.</hi> That <hi>Covenant</hi> which God promiſes to make with the <hi>Houſe of Iſrael</hi> in Chriſt's days, and the Apoſtle calls a <hi>New Covenant,</hi> is not made with the Elect in Chriſt from Everlaſting. For the ſecond, ſuch a diſtinction, as of an <hi>Antecedent</hi> Condition and <hi>Subſequent,</hi> in the Doctrine of <hi>Election,</hi> where it is not God's foreſeeing that we will believe and repent makes him chuſe us, but his chuſing us makes us be<g ref="char:EOLhyphen"/>lieve and repent, may do ſome Service; there is indeed a <hi>Sub<g ref="char:EOLhyphen"/>ſequent,</hi> no <hi>Antecedent</hi> Condition here: Likewiſe in the Doctrine of Works, Good Works is a <hi>Conſequent</hi> Condition to what Faith is <hi>Antecedent,</hi> becauſe Good Works do juſtifie our Faith: But as for this Point of the <hi>Covenant,</hi> when we ſay Faith is the Condition of it (underſtanding it of the <hi>Covenant of Grace</hi> made with fallen Man), if we do not make it ſuch a Condition as <hi>antecedes</hi> the Benefits, and that which being perform'd gives right to them (that we may not mince the matter), it is but trifling, to maintain that it hath any Condition at all. For the third, I pray underſtand theſe <hi>Covenant-Bleſſings,</hi> of the <hi>Goſpel</hi> Covenant (the Covenant of <hi>Recon<g ref="char:EOLhyphen"/>ciliation</hi> made with Man), and the Abſolute Promiſe of the Firſt Grace, or the <hi>giving a new Heart,</hi> to belong to the Covenant of <hi>Redemption,</hi> or God's Engagement to his Son, that he ſhall have a <hi>Seed,</hi> that <hi>Nations ſhall be brought in,</hi> and the like, and that there<g ref="char:EOLhyphen"/>fore he will give it, (this <hi>new Heart,</hi> or <hi>Firſt Grace</hi>) to the end that his Elect may in their time enter Covenant (the Goſpel Cove<g ref="char:EOLhyphen"/>nant) with him, and not as if they were in Covenant before, and ſo God gave Faith (this <hi>new Heart</hi> or Firſt Grace), as one of the <hi>Benefits</hi> of it. Underſtand him thus, and I apprehend the better end of the Staff to be in Mr <hi>Williams</hi>'s Hands.</p>
+               <p>I will ſay no more therefore to this Paper, but I will write my
+<pb n="5" facs="tcp:35047:3"/>Sheet out, for my own ſake. I know, for God to require Faith on our part, to bring us into Covenant, and yet promiſe it, to re<g ref="char:EOLhyphen"/>quire a Condition and yet give it, may ſound ſtrange to Human Reaſon: but when the Language is ſo frequent in Scripture, <hi>Cir<g ref="char:EOLhyphen"/>cumciſe your Hearts, make them new, walk in my ways,</hi> and yet the new Heart is God's Work, and it is he <hi>cauſes</hi> us to walk in them, the ſound is not harſh in thoſe Ears that are uſed to it. It is yet a thing ſomething harder of digeſtion, to ſay, That God does not only give, but Chriſt hath purchaſed the Condition for the Elect by his death, and not for others, who yet are bound to the per<g ref="char:EOLhyphen"/>formance, or muſt periſh, while the Goſpel Covenant is preached to one as well as the other. This hath made me in my Letter to Mr <hi>W</hi>'s deliver my Opinion for Univerſal Redemption, ac<g ref="char:EOLhyphen"/>counting that the Firſt Grace, or <hi>Condition</hi> of the Covenant, flows from Election, and not (as the <hi>Benefits</hi> do) from the purchaſe of Chriſt's Redemption. Unto what I have therefore ſaid there againſt the common Cry of our Divines, That Chriſt's Redempti<g ref="char:EOLhyphen"/>on muſt not be held ſuch as that when the Work is done it might be poſſible that none might be ſaved, and ſo he dye in vain; and I have anſwer'd, it is but an idle Complaint, becauſe Election takes care of that: I do now add, as glad of the occaſion and room,</p>
+               <p>Nor have we need to deny to them, that Chriſt in his dying for <hi>All</hi> did <hi>intend</hi> the Salvation only of his <hi>Elect,</hi> for Chriſt being God with the Father, and having decreed from Eternity that ſuch and ſuch ſhall be ſaved, he muſt <hi>intend</hi> ſtill what he <hi>decreed;</hi> but this draws no implication on the point, ſeeing there is the Intent or End of the <hi>Redeemer,</hi> which muſt be diſtinguiſh'd from the End of the <hi>Redemption</hi> it ſelf. There is <hi>Finis Operis</hi> and <hi>Finis Operantis, Finis Redemptoris</hi> and <hi>Finis Redemptionis;</hi> the Intent or End of the <hi>Doer,</hi> and the End of the <hi>Work done.</hi> The End of Chriſt is ſo to dye for all the World, as that ſome of the World, to wit, thoſe that <hi>believe in him,</hi> (that is the <hi>Elect</hi>) may be <hi>ſaved:</hi> The End of the Work of Redemption it ſelf is the making ſatisfaction to God's Juſtice, ſo that He may in Honour, or Righteouſneſs, deal with the World otherwiſe than his Law required, which is to pardon and ſave whom he will, and upon what terms he will. For, ſeeing the price of our Redemption, or Ranſom which he paid (that is his <hi>Obedience unto Death</hi>) was properly a <hi>Satisfaction</hi> (not <hi>debiti ſolutio</hi>), which Chriſt therefore might chuſe to lay down, and God might have refus'd to accept; the benefit we have by it is not ſuch a preſent legal diſcharge, as in payment of a Debt where one is
+<pb n="6" facs="tcp:35047:4"/>bound for another, upon which there is nothing farther can be re<g ref="char:EOLhyphen"/>quir'd of the Debtor; but a diſcharge upon ſuch terms as pleaſed the Father and Son to agree upon, and offer to the World by the Goſpel. <hi>And this is the Will of him that ſent me, that every one that ſeeth the Son, and believeth on him, may have everlaſting life.</hi> In the Work then of Redemption it ſelf, this is all Chriſt has to do, to reconcile the World to God, ſo as to obtain the Grant of a gene<g ref="char:EOLhyphen"/>ral Conditional Pardon: There is other Work for him to do, in regard to his Elects performing the Condition. <hi>Him hath God exal<g ref="char:EOLhyphen"/>ted to be a Prince and a Saviour.</hi> As a <hi>Priest</hi> and <hi>Saviour</hi> he did his ſatisfactory redeeming Work: but as a <hi>King</hi> and <hi>Saviour</hi> he gives Faith and <hi>Repentance,</hi> and upon our Repentance <hi>Remiſſion of Sins.</hi> What! was our Lord Jeſus, think you, a Man of one buſineſs? Had he but one Work from his Father to do, and now has no more? When he ſtray'd from his Parents at twelve years old to diſpute with the Doctors, <hi>wot you not that he was</hi> then <hi>about his Father's, buſineſs?</hi> And was that buſineſs, the Work of Redemption? What! was the work of his three Offices, King, Prieſt, and Prophet, all but <hi>one</hi> Work? Nay, was not the <hi>Impetration</hi> of our Redemption, or reconciling <hi>God to us,</hi> one Work, and the reconciling <hi>us to God</hi> and <hi>Application</hi> thereof another? He laid down his Life to <hi>Re<g ref="char:EOLhyphen"/>deem</hi> us: he roſe from the dead to <hi>Apply</hi> this <hi>Redemption</hi> by work<g ref="char:EOLhyphen"/>ing in us (through the Spirit) the Condition which he requires in order to the benefits purchaſed; and which (<hi>having</hi> then <hi>received all Power</hi>) he gives forth to whom it is decreed, as the diſpenſer of the Treaſure, of his Father's Election.</p>
+               <p>This was that, I ſay, he covenanted with his Father for, that performing of the Law of <hi>Mediatorſhip,</hi> as to the laying down his Life for Sinners that whoſoever believes in him may be ſaved; he ſhould upon his riſing be exalted to this farther Office, to be <hi>Prince and Savi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur,</hi> to give this Faith, or Condition, to whom he pleaſes, for their ſalvation.</p>
+               <p>That this is ſo, and muſt be ſo, let us conſider. No Man can rationally apprehend that any bene<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>its Chriſt hath purchaſed for him (or at leaſt any Saving benefit) can be his, unleſs Chriſt be his, Chriſt muſt be ours if his Benefits be ours. Chriſt is given with his Benefits. <hi>He that hath the Son hath Life, and he that hath not the Son hath not Life.</hi> Now I argue, ſeeing it is Faith makes Chriſt ours, or unites us to him, and before we have Faith we have not Chriſt, who is had, or made ours, by Faith; this Faith it ſelf cannot be a Benefit purchas'd for us by him, becauſe then we
+<pb n="7" facs="tcp:35047:4"/>muſt have one of his purchaſed Saving-benefits before we have Him. We muſt have Faith (I ſay) before we have Chriſt. Faith is this <hi>Condition.</hi> The <hi>Condition</hi> conſequently is not, cannot be, one of the <hi>Benefits</hi> flowing from <hi>Chriſt</hi>'s Purchaſe, but ſuch a Gift (an abſolute Gift) as <hi>Chriſt</hi> himſelf is, ariſing meerly from God's free Breaſt altogether.</p>
+               <p>To inculcate this yet a little, the common Opinion of the Or<g ref="char:EOLhyphen"/>thodox is, That the Goſpel-Covenant is conditional; That <hi>Faith</hi> therefore muſt <hi>antecede</hi> the Benefits; and yet that Faith, or the Condition it ſelf, is purchaſed by Chriſt's Redemption for the <hi>Elect,</hi> as well as the Benefits upon condition. When the Queſtion then is ask'd, Whether the <hi>Elect</hi> have any Benefit (any Saving-Benefit) by Chriſt's death <hi>before</hi> they <hi>believe,</hi> it is ſuch a puzzling and indeed poſing Queſtion, as muſt lead us either into that Point of Antinomianiſm, that we are in Chriſt, and juſtified, before Faith: or elſe into this Solution.</p>
+               <p>And here let me turn and look back, upon occaſion of theſe Third Thoughts on my late Book of <hi>Juſtification.</hi> To under<g ref="char:EOLhyphen"/>ſtand aright St. <hi>Paul</hi>'s <hi>Juſtification by Faith,</hi> we muſt conſider with whom it is he contends. The <hi>Jews</hi> (as the beſt skill'd in <hi>Rabbinical</hi> Learning, does tell us) did generally maintain the Doctrine of <hi>Freewill,</hi> not doubting but every one could do as God commanded, if he would himſelf<note n="*" place="margin">This is the meaning of that Jewiſh ſaying, <hi>All things are in the power and diſpoſal of Heaven, except the Fear of God;</hi> for that they believed was in their own.</note>, they having no No<g ref="char:EOLhyphen"/>tion (as <hi>Pelagius</hi> at firſt) of <hi>Grace [All that God hath ſpoken we will do]:</hi> and having receiv'd the <hi>Law</hi> from God's Mouth, (the <hi>Excellency</hi> whereof was their Glory) they ſuppoſed in the obſerva<g ref="char:EOLhyphen"/>tion of the <hi>outſide,</hi> that they kept it, accounting the Reward pro<g ref="char:EOLhyphen"/>miſed therein due to them thereupon from God, as what in Juſtice they merited for their Deeds; inſomuch as ſome thought them<g ref="char:EOLhyphen"/>ſelves ſo righteous as not to ſin at all, or need Pardon <hi>[Touching the Law, blameleſs];</hi> and others that ſinned, being lick'd whole by Sa<g ref="char:EOLhyphen"/>crifice, they thought all well, boaſting themſelves as the <hi>Only Peo<g ref="char:EOLhyphen"/>ple,</hi> the <hi>Only Righteous</hi> in the Earth. Not to mention what we all know out of the <hi>Acts,</hi> that ſome of them that were Converts to Chriſtianity did yet remain of the opinion, that their Law was to be kept. The Apoſtle now ſets himſelf againſt <hi>theſe Jews,</hi> and lets them know that no man, neither <hi>Jew</hi> nor <hi>Gentile, is Righteous in God's ſight</hi> (whatſoever they were in their <hi>own</hi>) but that <hi>all have ſinned,</hi> and need that <hi>Meſſias</hi> they expected, to <hi>make Reconciliation</hi> for their Sins; That our Lord Jeſus Chriſt being that true <hi>Meſſias,</hi> by his Death anſwering their Legal Sacrifices, hath born the Curſe
+<pb n="8" facs="tcp:35047:5"/>of the <hi>Law,</hi> and ſo redeemed us from it. That Gods undeſerved Goodneſs here in accepting of Sinners, through this meritorious Sacrifice of his, to Pardon and Life, upon Condition, which he gives the Grace alſo to perform, preſuppoſed, and by me acknow<g ref="char:EOLhyphen"/>ledg'd: it is another <hi>Righteouſneſs,</hi> and not that of the <hi>Jews</hi> (not that <hi>Paul</hi> calls his <hi>own,</hi> as a <hi>Jew</hi>), or not a Righteouſneſs of <hi>Works</hi> [perfect Works], but a Righteouſneſs of <hi>Faith,</hi> which makes the Reward only of Grace <hi>[of Faith, that it may be of Grace];</hi> of Faith, but a <hi>true</hi> Faith <hi>working by Love,</hi> (which is an <hi>internal</hi> Righteouſ<g ref="char:EOLhyphen"/>neſs though imperfect, and not as the <hi>external Works</hi> of the <hi>Jews</hi> was) is that <hi>Righteouſneſs of God</hi> in oppoſition to the terms of the Law, whereby we are juſtified and ſaved.</p>
+               <p>The Apoſtle (I obſerve) in one place ſpeaking of <hi>Faith,</hi> calls it <hi>the Obedience of Faith;</hi> the ſame word if you compare one <hi>Text</hi> [<hi>Rom.</hi> 11.30, 31.] with the <hi>Margin,</hi> ſignifying both to <hi>believe</hi> and <hi>obey. And the People believed God and his Servant</hi> Moſes. I will conclude hereupon, that Chriſt's Redemption in the immediate fruit thereof, which is the Grant of a General Pardon through his Satisfaction to all the World on Condition, being laid as a foun<g ref="char:EOLhyphen"/>dation, To be juſtified by Faith is to be juſtified by performing that Condition. To be juſtified by Faith (believe me at part<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>) is in St <hi>Paul</hi>'s Mind to be juſtified by the Obedience of Faith <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is (in <hi>Paul</hi>'s mind I ſay, oppoſing the <hi>Jew</hi>) by embracing the C<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtian Religion, and living according to it.</p>
+               <p>
+                  <hi>Sir,</hi> The Deſign, Sum, and End of this poor Sheet of mine, and the printing of it, comes all to this. <hi>Opinionum variet as, &amp; Opin<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ium <g ref="char:V">Ʋ</g>nit as, non ſunt</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. In God's Name therefore, do you and your Brethren unite, and re-unite (as much as you will) is <hi>Practicals,</hi> but forbear, and bear with one another in <hi>Opinions.</hi> And I pray thoſe who have my late mentioned Book, where they find in the end, a Letter to Mr. <hi>Williams,</hi> that they will pleaſe to ſtitch this Sheet to it.</p>
+               <closer>
+                  <signed>John Humfrey.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Parkhurſt</hi> near <hi>Mercers-Chappel,</hi> 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
